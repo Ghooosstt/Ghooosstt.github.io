@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: epiicdream.github.io
+Token: d110fe1482806acfdff4c2446ad4b81a26b91b31791bbbe88bf3313b8b0687e3
